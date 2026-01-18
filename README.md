@@ -8,7 +8,7 @@ Click on Create VM in the Proxmox interface.
 <img width="646" height="248" alt="image" src="https://github.com/user-attachments/assets/d818e96f-1f15-4164-8265-31e4301d3d06" />
 
 ### OS Tab
-Uncheck Do not use any media.
+Checked Do not use any media.
 
 <img width="672" height="309" alt="image" src="https://github.com/user-attachments/assets/d75d7294-fd1c-469b-b85c-be3d79067da0" />
 
